@@ -1,5 +1,8 @@
 # Task Management System Template
 
+> **📋 GitHub Template Repository**  
+> This repository is configured as a [GitHub template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository). Click **"Use this template"** to create a new repository with all the task management structure pre-configured for your project.
+
 A portable, reusable task tracking system for any software project.
 
 ## 🚀 Quick Start
